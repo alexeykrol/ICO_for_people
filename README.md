@@ -15,10 +15,20 @@ My goal is to make the ICO approach useful for all people who are thinking about
 
 Primarily, I care this book would be simple as possible and can be used by all people, even those of them who are not a software developer or involved in blockchain scope. The main idea of this project to design ICO as an open framework, when everyone can share their experience and, therefore, to improve applicability for practical usage.
 
-I will put here a parts of book in order to you can review and give feedback. All english language docs will be in eng folder.
+I will put here a parts of book in order to you can review and give feedback. All english language docs will be in [eng](https://github.com/alexeykrol/ICO_for_people/tree/master/eng) folder.
 So, feel free to add any case, give a critic, issues or pull request if you have something which can make it better.
 
 **I promise to mention everyone who will make even a small contribution.**
+
+
+#### About me a little:
+
+[LinkedIn:](https://www.linkedin.com/in/alexkrol/)
+
+[Facebook](https://www.facebook.com/alex.v.krol)
+
+[Some blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
+
 
 #### Для русскоговорящих энтузиастов.
 
@@ -35,11 +45,27 @@ So, feel free to add any case, give a critic, issues or pull request if you have
 
 Но в книге будет бесконечное число лайфхаков, который позволит сделать успешное ICO любым нормальным людям, главная ценность которых не в глубоком кармане, а в чем то реально ценном.
 
-Я буду выкладывать сюда отдельные фрагментв на русском языке, и все они будут находиться в папке rus. Вы можете контрибьютить что угодно. Всех, кто чем-то помог - я упомяну в книге.
+Я буду выкладывать сюда отдельные фрагментв на русском языке, и все они будут находиться в папке [rus](https://github.com/alexeykrol/ICO_for_people/tree/master/rus). Вы можете контрибьютить что угодно. Всех, кто чем-то помог - я упомяну в книге.
 
-There are connected project there:
+#### Немного обо мне:
+
+[LinkedIn:](https://www.linkedin.com/in/alexkrol/)
+
+[Сайт](http://www.alexeykrol.com/)
+
+[Facebook](https://www.facebook.com/alex.v.krol)
+
+[Статьи на русском по БЧ тематике:](https://medium.com/test-pubs)
+
+[Блог на Медиум:](https://medium.com/krol-institute)
+
+[Some English blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
+
+
+#### There are connected project there:
 
 
 [VCCommunity](https://github.com/alexeykrol/VCCommunity) - This is about the blockchain based Value Creating Community concept.
+
 [CFSP](https://github.com/alexeykrol/CFSP) - Crypto Fund Syndicate Protocol a set of smart contracts of the next generation, the basis of which will be artificial intelligence. CFSP will be executed on any CFCF-supported blockbuster and allows for the formation of "fast" syndicates, and at peak moments, a financial lever comparable to global GDP - trillions of dollars. 
 
