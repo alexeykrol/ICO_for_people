@@ -23,9 +23,9 @@ So, feel free to add any case, give a critic, issues or pull request if you have
 
 #### About me a little:
 
-[LinkedIn:](https://www.linkedin.com/in/alexkrol/)
-[Facebook](https://www.facebook.com/alex.v.krol)
-[Some blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
+* [LinkedIn:](https://www.linkedin.com/in/alexkrol/)
+* [Facebook](https://www.facebook.com/alex.v.krol)
+* [Some blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
 
 
 #### Для русскоговорящих энтузиастов.
@@ -47,12 +47,12 @@ So, feel free to add any case, give a critic, issues or pull request if you have
 
 #### Немного обо мне:
 
-[LinkedIn:](https://www.linkedin.com/in/alexkrol/)
-[Сайт](http://www.alexeykrol.com/)
-[Facebook](https://www.facebook.com/alex.v.krol)
-[Статьи на русском по БЧ тематике:](https://medium.com/test-pubs)
-[Блог на Медиум:](https://medium.com/krol-institute)
-[Some English blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
+* [LinkedIn:](https://www.linkedin.com/in/alexkrol/)
+* [Сайт](http://www.alexeykrol.com/)
+* [Facebook](https://www.facebook.com/alex.v.krol)
+* [Статьи на русском по БЧ тематике:](https://medium.com/test-pubs)
+* [Блог на Медиум:](https://medium.com/krol-institute)
+* [Some English blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
 
 
 #### There are connected project there:
