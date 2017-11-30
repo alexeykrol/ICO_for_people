@@ -1,3 +1,13 @@
+До того, как вы начнете ваять свой гениальный текст, вы должны прочитать эти статьи. Если не знаете языка - переведите переводчиком.
+
+* [Good, Bad and Ugly Side of ICOs](https://cointelegraph.com/news/good-bad-and-ugly-side-of-icos)
+* [How to Develop White Paper for ICO: Do’s and Don’ts](https://cointelegraph.com/news/how-to-develop-white-paper-for-ico-dos-and-donts)
+* [8 Red Flags of ICOs](https://medium.com/lemur-legal/8-red-flags-of-icos-65f2a97d01c6)
+* [How To Create An ICO Scam in 5 Simple Steps](https://steemit.com/scam/@moonjelly/how-to-create-an-ico-scam-in-5-simple-steps)
+* [Crypto Thoughts — Are many ICO whitepapers Business Plans](https://medium.com/crypt-bytes-tech/crypto-thoughts-are-many-ico-whitepapers-business-plans-bd3581614663)
+
+
+
 ### Как писать Whitepaper?
 
 1. [Что такое Whitepaper, зачем она нужна и как работает?](https://github.com/alexeykrol/ICO_for_people/blob/master/rus/howWhitepaper.md#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-whitepaper-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BE%D0%BD%D0%B0-%D0%BD%D1%83%D0%B6%D0%BD%D0%B0-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82)
