@@ -7,50 +7,20 @@
 
 ### Что такое Whitepaper, зачем она нужна и как работает?
 
-A white paper is a document that argues a specific position or solves a problem for its audience. They first originated as a type of official government document.Typically, the purpose of a white paper is to advocate that a certain position is the best way to go or that a certain solution is best for a particular problem. When it is used for commercial purposes, it could influence the decision-making processes of current and prospective customers. 78% of buyers used white papers in the past 12 months to research B2B purchasing decisions.
+Традиционно Whitepaper это документ, который описывает техническое решение какой-то проблемы, и формат этого документа зависит от целевой аудитории. Если это топ менеджеры, то Whitepaper фокусируется более на финансовых и бизнес выгодах решения, а если читатели технари, то Whitepaper больше внимания уделяет техническим деталям. Особенность Whitepaper для ICO в том, что ее основная целевая группа, это крипто инвесторами, которые могут представть фонды, а могут быть и частными лицами, но все они читают Whitepaper с единтвенной целью - принять решение купить токены проекта или нет. 
 
-**What exactly is a white paper?**
+Таким образом, основная функция Whitepaper - подвести потенциального крипто инвестора к решению, предоставив соответствующие аргументы. Сама аргументация в этом смысле достаточно стандартна, и может совпадать с концепцией бизнес плана. При этом подразумевается, что инвесторов/ покупателей токенов интересую примерно типовые вопросы, на которые он ожидает получить убедительные ответы. Надо помнить, что Whitepaper в каким-то смысле организует разговор с инвестором, когда у него возникают в голове определенные возражения, а задача Whitepaper снимать их, постепенно переводя читателя из состояния сомнения в состояние алчного вожделения.
 
-Ask any 10 people this question, and you’ll likely get 12 different answers. Here is the best short definition I’ve ever found, after years of looking: **A white paper is a persuasive essay that uses facts and logic to promote a certain product, service, or viewpoint.**
-
-**Are there any industry standards for these documents?**
-
-In a word, no. Anyone can call anything a white paper. And they do. Today’s “typical” white paper is 6 to 8 pages long, shorter than in past years. But I’ve seen everything from a two-page flyer to a 100-page book called a “white paper.” The typical white paper looks better than a technical manual, but not as slick as a brochure or ad. But some white papers are as colorful as a cereal box. The typical white paper is distributed as a PDF on the web. But some are still printed out for sales calls, press kits and trade shows.
-
-**If there’s no standards, aren’t there at least some conventions? Well, perhaps.**
-
-White paper experts including Gordon Graham have identified these key characteristics for a white paper:
-
-A document containing narrative text
-* At least 5-6 pages long
-* Oriented in portrait format (landscape format tends to be for B2B e-books)
-* Educational, practical and useful, not a sales pitch
-* Used before a sale, not after a sale
-* Provides facts, not just opinion
-* Includes an introduction or executive summary
-
-If a document has all these characteristics, it’s probably a white paper.
-
-**White papers and case studies: What’s the difference?**
-
-White papers sometimes mention case studies for evidence of a vendor’s claims. But the two are quite different in form and content. Case studies are extended testimonials on how a product or service helped someone in the real world. They are typically between 500 and 1,500 words long, written in a journalistic style with many quotes from the actual customer.
-
-The classic format for a case study is Before/After, Then/Now, Problem/Solution: Before we had this terrible problem, then we found this fantastic product, and After we started using it, everything was sweetness and light.
-
-White papers, on the other hand, are persuasive essays about a certain product, service, technology or methodology.
-
-They are generally 2,500 words or more, written in a somewhat academic style, with no direct quotes from the vendor’s representatives. A white paper may be told in the Problem/Solution format, but rarely in the Before/After format. White papers tend to be used earlier in the sales cycle, to help prospects visualize a possible solution to a nagging problem.
-
-Case studies tend to be used later in the sales cycle to reassure a prospect that other buyers benefited from the same approach they are considering. For a longer discussion, see article [What’s the diff between a white paper and a case study?](https://www.thatwhitepaperguy.com/white-paper-article-white-papers-and-case-studies.html)
-
-
+Whitepaper должна нажать на определенные кнопки, запустить позитивные триггеры, а с другой стороны не породить сомнения. Все эти моменты отражены в примерной структуре и стиле ICO.
 
 ### Структура Whitepaper
 
 Background — с чего всё началось.
 Introduction — описание рынка, применимость блокчейна на нем.
-Market Analysis — более глубокий анализ рынка, потенциал роста рынка, существующие конкуренты. Introduction to product — какой продукт, сервис или проект вы предлагаете.
-Product specific section — более подробное описание продукта, графики, таблицы, расчеты. Technical — более подробное описание технических аспектов продукта.
+Market Analysis — более глубокий анализ рынка, потенциал роста рынка, существующие конкуренты. 
+Introduction to product — какой продукт, сервис или проект вы предлагаете.
+Product specific section — более подробное описание продукта, графики, таблицы, расчеты. 
+Technical — более подробное описание технических аспектов продукта.
 Use cases — практики применения продукта.
 The pre-ICO — если проводится предварительное привлечение инвестиций.
 The ICO — смотрите шаг «Опишите условия для инвесторов».
@@ -58,6 +28,28 @@ Roadmap of development — что сейчас сделано, что и в к
 Financial Projections — на что будут расходоваться инвестиции.
 Team — руководство, ключевые сотрудники и их опыт.
 Conclusion — заключение, выводы.
+
+There are a few sections every white paper must have:
+
+Problem
+Solution & Product
+Token Implementation (how the token works with the product, economics and technical)
+
+Team. Do these people know what they’re talking about? The majority of these projects are raising funds without a blockchain engineer on board, thinking that they’ll raise enough money to find one when they need to. Engineers with experience in this area are harder to find than you might think and with the kind of money that organizations with freshly-minted ICOs can afford to pay, they’re about to become the most expensive hires (if they aren’t already).
+
+And if there isn’t significant blockchain experience in the team section, one clear signal that the team is at least beginning to learn is a technical section that goes overboard. I always like to see that.
+Token Deployment & Plan
+
+What’s the plan?
+When will the token be listed on an exchange? 
+What’s the development roadmap? I generally like to see a detailed plan for the next 12–18 months (that includes a beta launch at minimum). Bonus points if this team has executed a roadmap together before.
+
+Базовые принципы/ рекомендации
+
+Маркетинговый стиль
+
+
+Технический стиль
 
 
 
@@ -147,11 +139,56 @@ White Paper Roll-out Strategies (these ideas belong to KnowledgeStorm, Inc.; the
 11. Use it to educate employees and vendors about the market and competing solutions 
 12. Keep sales force supplied with copies to leave behind at a sales call business, marketing, and technical communication for people who teach, sell, and inform rita braun
  
- 
+A white paper is a document that argues a specific position or solves a problem for its audience. They first originated as a type of official government document.Typically, the purpose of a white paper is to advocate that a certain position is the best way to go or that a certain solution is best for a particular problem. When it is used for commercial purposes, it could influence the decision-making processes of current and prospective customers. 78% of buyers used white papers in the past 12 months to research B2B purchasing decisions.
+
+**What exactly is a white paper?**
+
+Ask any 10 people this question, and you’ll likely get 12 different answers. Here is the best short definition I’ve ever found, after years of looking: **A white paper is a persuasive essay that uses facts and logic to promote a certain product, service, or viewpoint.**
+
+**Are there any industry standards for these documents?**
+
+In a word, no. Anyone can call anything a white paper. And they do. Today’s “typical” white paper is 6 to 8 pages long, shorter than in past years. But I’ve seen everything from a two-page flyer to a 100-page book called a “white paper.” The typical white paper looks better than a technical manual, but not as slick as a brochure or ad. But some white papers are as colorful as a cereal box. The typical white paper is distributed as a PDF on the web. But some are still printed out for sales calls, press kits and trade shows.
+
+**If there’s no standards, aren’t there at least some conventions? Well, perhaps.**
+
+White paper experts including Gordon Graham have identified these key characteristics for a white paper:
+
+A document containing narrative text
+* At least 5-6 pages long
+* Oriented in portrait format (landscape format tends to be for B2B e-books)
+* Educational, practical and useful, not a sales pitch
+* Used before a sale, not after a sale
+* Provides facts, not just opinion
+* Includes an introduction or executive summary
+
+If a document has all these characteristics, it’s probably a white paper.
+
+**White papers and case studies: What’s the difference?**
+
+White papers sometimes mention case studies for evidence of a vendor’s claims. But the two are quite different in form and content. Case studies are extended testimonials on how a product or service helped someone in the real world. They are typically between 500 and 1,500 words long, written in a journalistic style with many quotes from the actual customer.
+
+The classic format for a case study is Before/After, Then/Now, Problem/Solution: Before we had this terrible problem, then we found this fantastic product, and After we started using it, everything was sweetness and light.
+
+White papers, on the other hand, are persuasive essays about a certain product, service, technology or methodology.
+
+They are generally 2,500 words or more, written in a somewhat academic style, with no direct quotes from the vendor’s representatives. A white paper may be told in the Problem/Solution format, but rarely in the Before/After format. White papers tend to be used earlier in the sales cycle, to help prospects visualize a possible solution to a nagging problem.
+
+Case studies tend to be used later in the sales cycle to reassure a prospect that other buyers benefited from the same approach they are considering. For a longer discussion, see article [What’s the diff between a white paper and a case study?](https://www.thatwhitepaperguy.com/white-paper-article-white-papers-and-case-studies.html)
+
+**How do people read white papers?**
+
+Almost everyone working today has more to read, more to remember and more to do than they can possibly get to. For example, one study showed that the typical manager has more than 50 hours of work sitting on their desk at any point. They’re not exactly waiting for another document to add to the pile?!
+
+No one reads white papers for fun; they read them for work.
+
+So most people who read white papers do not read the same way they might read a novel, paying attention to every sentence. Instead, they tend to skim, scan and skip… especially if they’re reading off the screen. Don’t you? This means that white papers must be carefully written and designed for business readers with limited time and attention. A wall of gray text is not likely to engage today’s white paper reader.
+
+White papers need to use visual breakers like sidebars, callouts, headings, lines, boxes, bullets and graphics to direct the attention of scanners and skimmers. These visuals need to point out the key messages of the document in a way that’s easy for today’s busy readers to follow.
  
  
 #### Полезные ссылки для классических WP
 
+* [Коллекция White Paper разных ICO](https://github.com/masonicGIT/ico-whitepapers)
 * [Примеры классический White Paper](https://www.calpoly.edu/~jgphelan/sample_white_papers.html)
 * [Примеры WP на LinkedIn](https://business.linkedin.com/marketing-solutions/marketing-strategy?u=0#all/topics/products/types)
 * [Пример получения лида](https://business.linkedin.com/marketing-solutions/cx/17/02/tactics-to-distribute-content)
@@ -160,3 +197,11 @@ White Paper Roll-out Strategies (these ideas belong to KnowledgeStorm, Inc.; the
 * [8 Basic Tips for Writing an Amazing White Paper](https://contently.com/strategist/2012/02/10/how-to-write-a-white-paper/)
 * [43+ Free White Paper Templates](https://www.template.net/business/paper-templates/free-white-paper-template/)
 * супер полезно [The White Paper FAQ (Frequently Asked Questions)](https://www.thatwhitepaperguy.com/white-paper-faq-frequently-asked-questions/)
+* [How to Write a Good White Paper for ICO: Tips and Examples](https://hackernoon.com/how-to-write-a-good-white-paper-for-ico-tips-and-examples-42d71c3fa4fe)
+* [What to Look for in an ICO White Paper](https://hackernoon.com/what-to-look-for-in-an-ico-white-paper-successful-token-54eba3787139)
+* [Good, Bad and Ugly Side of ICOs](https://cointelegraph.com/news/good-bad-and-ugly-side-of-icos)
+* [How to Develop White Paper for ICO: Do’s and Don’ts](https://cointelegraph.com/news/how-to-develop-white-paper-for-ico-dos-and-donts)
+* [8 Red Flags of ICOs](https://medium.com/lemur-legal/8-red-flags-of-icos-65f2a97d01c6)
+* [How To Create An ICO Scam in 5 Simple Steps](https://steemit.com/scam/@moonjelly/how-to-create-an-ico-scam-in-5-simple-steps)
+* [Crypto Thoughts — Are many ICO whitepapers Business Plans](https://medium.com/crypt-bytes-tech/crypto-thoughts-are-many-ico-whitepapers-business-plans-bd3581614663)
+
