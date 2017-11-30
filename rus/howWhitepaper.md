@@ -31,7 +31,13 @@ Whitepaper всегда должна предоставлять аргумент
 2. Потребители - кто они, какова их user stories.
 3. Анализ рынка, потенциал роста рынка, существующие конкуренты - как потребители справляются с проблемой сейчас. Акцентируя это, вы потом можете раскрыть в чем будет существенное преимущество вашего решения.
 4. Описание решения - но может быть более или менее длинным, что зависит от ваших целей и от аудитории. Иногда, чтобы не утежелять White paper - создают специальный дополнительный документ с более глубоким погружением в детали технологии. Также в некоторых случая создается FAQ по специфическим вопросам. Но иногда это раскрывают в тексте самой White paper. 
- - Здесь уместно рассказать о том как вы используете блокчейн? В отдельных случаях можно предоставить ссылку на открытый репозитарий проекта на github. Описание должено в целом давть представление о том как вы будете преодлевать специфические проблемы, в чем инновация, как это будет работать, как это будет внедрятся, как масштабироваться?
+- Здесь уместно рассказать о том как вы используете блокчейн?
+- В отдельных случаях можно предоставить ссылку на открытый репозитарий проекта на github. 
+- Описание должено в целом давть представление о том как вы будете преодлевать специфические проблемы.
+- В чем инновация?
+- Какие роли, кейсы, как это будет работать?
+- Как это будет внедрятся, как масштабироваться?
+- Возможно операционный цикл.
 5. Описание продукта, если оно есть или хотя бы представление о нем. Продукт не есть решение. Решение это способ помочь клиенту получить то, чего он хочет удобным способом, а продукт это способ заработать на этом деньги. Продукт включает описание решение и модели монетизации, так как часто они сильно связаны. Вы должны объяснить покупателям токена - как вы будете зарабатывать деньги или обеспечивать жизнеспособность проекта.
 6. Use cases — практики применения продукта, если они есть.
 7. Roadmap of development — что сейчас сделано, что и в какие сроки планируется.
@@ -44,35 +50,24 @@ Whitepaper всегда должна предоставлять аргумент
 1. Функция токена, виды, как работает - это критически важно, потому что экспертиза данного раздела может быть основнием для отнесения вашего токена к категории securities.
 2. Ценообразование токена.
 3. Факторы роста токена.
-4. Детали эмиссии токена - сколько, какая структура, последовательность - pre-sale, sale, скидки, привилегии, специальные условия, бонусы.
+4. Детали эмиссии токена - CAP, сколько, какая структура, последовательность - pre-sale, sale, скидки, привилегии, специальные условия, бонусы.
 5. Условия продажи токена и связанные с этим ограничения. Здесь идет ссылка на отдельный документ - Terms, который является публичной офертой. Т.е. White paper - это описательный документ, он не имеет серьезной юридической силы, кроме ваших обещаний. А вот Terms конкретно описывает условия продажи токенов и какие обязательства и права возникают у проекта и токенхолдеров. Информация в White paper должна коррелировать с содержанием Terms.
 6. Какой тип токена вы используете, на какой платформе?
 7. Обращение токена, листинг.
 
-#### 3. Смарт контракт
+#### 3. Смарт контракт - если вы его применяете.
 
 1. Вы описываете логику смарт-контакта.
 2. Ссылка на код смарт-контракта на Github.
 3. Информация об аудите смарт-контакта.
 
 
-The pre-ICO — если проводится предварительное привлечение инвестиций.
-The ICO — смотрите шаг «Опишите условия для инвесторов».
 
 
-Conclusion — заключение, выводы.
 
 
-Token Implementation (how the token works with the product, economics and technical)
 
-Team. Do these people know what they’re talking about? The majority of these projects are raising funds without a blockchain engineer on board, thinking that they’ll raise enough money to find one when they need to. Engineers with experience in this area are harder to find than you might think and with the kind of money that organizations with freshly-minted ICOs can afford to pay, they’re about to become the most expensive hires (if they aren’t already).
 
-And if there isn’t significant blockchain experience in the team section, one clear signal that the team is at least beginning to learn is a technical section that goes overboard. I always like to see that.
-Token Deployment & Plan
-
-What’s the plan?
-When will the token be listed on an exchange? 
-What’s the development roadmap? I generally like to see a detailed plan for the next 12–18 months (that includes a beta launch at minimum). Bonus points if this team has executed a roadmap together before.
 
 Базовые принципы/ рекомендации
 
@@ -100,7 +95,11 @@ What’s the development roadmap? I generally like to see a detailed plan for th
 
 **Preparation**
 
- 1. Determine audience: a. resist the urge to create a paper for multiple audiences by considering external stakeholders’ needs: Strategic: needs competitive advantage or improved performance Technical: needs details of product functionality, compatibility, integration, or security User: needs to know how product will affect day-to-day work flow b. also consider where these stakeholders are at in the buying process and their decision making authority or influence 
+ 1. Determine audience: 
+ 
+ a. resist the urge to create a paper for multiple audiences by considering external stakeholders’ needs: Strategic: needs competitive advantage or improved performance Technical: needs details of product functionality, compatibility, integration, or security User: needs to know how product will affect day-to-day work flow 
+ b. also consider where these stakeholders are at in the buying process and their decision making authority or influence 
+ 
  2. Get white paper buy-in from all internal stakeholders (production, sales, marketing, all levels of management) 
  3. Determine white paper objectives (broad statements) and goals (specific statements) 
  4. Determine the preferred action the target audience should take 
