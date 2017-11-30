@@ -9,6 +9,40 @@
 
 A white paper is a document that argues a specific position or solves a problem for its audience. They first originated as a type of official government document.Typically, the purpose of a white paper is to advocate that a certain position is the best way to go or that a certain solution is best for a particular problem. When it is used for commercial purposes, it could influence the decision-making processes of current and prospective customers. 78% of buyers used white papers in the past 12 months to research B2B purchasing decisions.
 
+**What exactly is a white paper?**
+
+Ask any 10 people this question, and you’ll likely get 12 different answers. Here is the best short definition I’ve ever found, after years of looking: **A white paper is a persuasive essay that uses facts and logic to promote a certain product, service, or viewpoint.**
+
+**Are there any industry standards for these documents?**
+
+In a word, no. Anyone can call anything a white paper. And they do. Today’s “typical” white paper is 6 to 8 pages long, shorter than in past years. But I’ve seen everything from a two-page flyer to a 100-page book called a “white paper.” The typical white paper looks better than a technical manual, but not as slick as a brochure or ad. But some white papers are as colorful as a cereal box. The typical white paper is distributed as a PDF on the web. But some are still printed out for sales calls, press kits and trade shows.
+
+**If there’s no standards, aren’t there at least some conventions? Well, perhaps.**
+
+White paper experts including Gordon Graham have identified these key characteristics for a white paper:
+
+A document containing narrative text
+* At least 5-6 pages long
+* Oriented in portrait format (landscape format tends to be for B2B e-books)
+* Educational, practical and useful, not a sales pitch
+* Used before a sale, not after a sale
+* Provides facts, not just opinion
+* Includes an introduction or executive summary
+
+If a document has all these characteristics, it’s probably a white paper.
+
+**White papers and case studies: What’s the difference?**
+
+White papers sometimes mention case studies for evidence of a vendor’s claims. But the two are quite different in form and content. Case studies are extended testimonials on how a product or service helped someone in the real world. They are typically between 500 and 1,500 words long, written in a journalistic style with many quotes from the actual customer.
+
+The classic format for a case study is Before/After, Then/Now, Problem/Solution: Before we had this terrible problem, then we found this fantastic product, and After we started using it, everything was sweetness and light.
+
+White papers, on the other hand, are persuasive essays about a certain product, service, technology or methodology.
+
+They are generally 2,500 words or more, written in a somewhat academic style, with no direct quotes from the vendor’s representatives. A white paper may be told in the Problem/Solution format, but rarely in the Before/After format. White papers tend to be used earlier in the sales cycle, to help prospects visualize a possible solution to a nagging problem.
+
+Case studies tend to be used later in the sales cycle to reassure a prospect that other buyers benefited from the same approach they are considering. For a longer discussion, see article [What’s the diff between a white paper and a case study?](https://www.thatwhitepaperguy.com/white-paper-article-white-papers-and-case-studies.html)
+
 
 
 ### Структура Whitepaper
@@ -122,6 +156,7 @@ White Paper Roll-out Strategies (these ideas belong to KnowledgeStorm, Inc.; the
 * [Примеры WP на LinkedIn](https://business.linkedin.com/marketing-solutions/marketing-strategy?u=0#all/topics/products/types)
 * [Пример получения лида](https://business.linkedin.com/marketing-solutions/cx/17/02/tactics-to-distribute-content)
 * [Как писать хорошие классические WP](https://www.slideshare.net/slidale/how-towriteagoodwhitepaper)
-* [Примеры шаблонов для написания WP[(https://www.lucidpress.com/pages/white-paper-templates)
-* wikiHow to Write White Papers
-* 8 Basic Tips for Writing an Amazing White Paper
+* [Примеры шаблонов для написания WP](https://www.lucidpress.com/pages/white-paper-templates)
+* [8 Basic Tips for Writing an Amazing White Paper](https://contently.com/strategist/2012/02/10/how-to-write-a-white-paper/)
+* [43+ Free White Paper Templates](https://www.template.net/business/paper-templates/free-white-paper-template/)
+* супер полезно [The White Paper FAQ (Frequently Asked Questions)](https://www.thatwhitepaperguy.com/white-paper-faq-frequently-asked-questions/)
