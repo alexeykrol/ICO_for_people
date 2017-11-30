@@ -5,46 +5,6 @@
 For English speaking
 
 
-
-#### Hi, everyone there!
-
-I started to write a book "How to make real ICO if you have not even 50K$?", because I believe ICO is a great approach, which can change the fundraising market, especially when we are talking about these project that is not acceptable by venture capital and so on. 
-
-#### Whom this book can be useful?
-
-1. Those people who suppose to make ICO concerning their ideas.
-2. Those people who want to support or invest promising ideas and people buying tokens.
-3. Those people who want to trade tokens for getting fast profit.
-
-
-Good news! I have a deal with one of the largest publishing house in the world: https://en.wikipedia.org/wiki/Eksmo , that means i have seriouse responsibilyty and this book will be written anyway, however is not commercial project for me.
-
-#### This book will include:
-
-* Main roadmap of whole ICO process.
-* An explanation of basics terms, concepts, and ideas about blockchain, cryptocurrency, and ICO.
-* Cases of success and failed projects with robust analysis.
-* A lot of interview with real people who participated in a project and can bring something really valuable to the community.
-
-My goal is to make the ICO approach useful for all people who are thinking about making their ideas real, who wants to attract people and fund, who believes his/ her project will improve life on our planet.
-
-Primarily, I care this book would be simple as possible and can be used by all people, even those of them who are not a software developer or involved in blockchain scope. The main idea of this project to design ICO as an open framework, when everyone can share their experience and, therefore, to improve applicability for practical usage.
-
-I will put here a parts of book in order to you can review and give feedback. All english language docs will be in [eng](https://github.com/alexeykrol/ICO_for_people/tree/master/eng) folder.
-So, feel free to add any case, give a critic, issues or pull request if you have something which can make it better.
-
-**I promise to mention everyone who will make even a small contribution.**
-
-
-#### About me a little:
-
-* [LinkedIn:](https://www.linkedin.com/in/alexkrol/)
-* [Facebook](https://www.facebook.com/alex.v.krol)
-* [Some blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
-
-
-#### Для русскоговорящих энтузиастов.
-
 Я, наконец, получил подписанный контакт с издательством [Эксмо](https://eksmo.ru/), согласно которому я буду писать книгу на тему «Как делать ICO если у вас нет 1 млн. долларов!». Основой для книги послужиk конспект моего семинара, который я проводил в конце августа 2017 в Сан-Франциско, но за это время многое изменилось и появилось много кейсов. Однако самым главным в этой книге будет то, что я построю ее на основе интервью самых опытных людей, практиков, которые реально что-то делали и делали в этой сфере. 
 
 #### Кому эта книга может быть полезна?
@@ -236,3 +196,41 @@ So, feel free to add any case, give a critic, issues or pull request if you have
 
 
 ## For English speakin
+
+#### Hi, everyone there!
+
+I started to write a book "How to make real ICO if you have not even 50K$?", because I believe ICO is a great approach, which can change the fundraising market, especially when we are talking about these project that is not acceptable by venture capital and so on. 
+
+#### Whom this book can be useful?
+
+1. Those people who suppose to make ICO concerning their ideas.
+2. Those people who want to support or invest promising ideas and people buying tokens.
+3. Those people who want to trade tokens for getting fast profit.
+
+
+Good news! I have a deal with one of the largest publishing house in the world: https://en.wikipedia.org/wiki/Eksmo , that means i have seriouse responsibilyty and this book will be written anyway, however is not commercial project for me.
+
+#### This book will include:
+
+* Main roadmap of whole ICO process.
+* An explanation of basics terms, concepts, and ideas about blockchain, cryptocurrency, and ICO.
+* Cases of success and failed projects with robust analysis.
+* A lot of interview with real people who participated in a project and can bring something really valuable to the community.
+
+My goal is to make the ICO approach useful for all people who are thinking about making their ideas real, who wants to attract people and fund, who believes his/ her project will improve life on our planet.
+
+Primarily, I care this book would be simple as possible and can be used by all people, even those of them who are not a software developer or involved in blockchain scope. The main idea of this project to design ICO as an open framework, when everyone can share their experience and, therefore, to improve applicability for practical usage.
+
+I will put here a parts of book in order to you can review and give feedback. All english language docs will be in [eng](https://github.com/alexeykrol/ICO_for_people/tree/master/eng) folder.
+So, feel free to add any case, give a critic, issues or pull request if you have something which can make it better.
+
+**I promise to mention everyone who will make even a small contribution.**
+
+
+#### About me a little:
+
+* [LinkedIn:](https://www.linkedin.com/in/alexkrol/)
+* [Facebook](https://www.facebook.com/alex.v.krol)
+* [Some blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
+
+
