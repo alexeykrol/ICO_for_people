@@ -4,7 +4,6 @@
 * [How to Develop White Paper for ICO: Do’s and Don’ts](https://cointelegraph.com/news/how-to-develop-white-paper-for-ico-dos-and-donts)
 * [8 Red Flags of ICOs](https://medium.com/lemur-legal/8-red-flags-of-icos-65f2a97d01c6)
 * [How To Create An ICO Scam in 5 Simple Steps](https://steemit.com/scam/@moonjelly/how-to-create-an-ico-scam-in-5-simple-steps)
-* [Crypto Thoughts — Are many ICO whitepapers Business Plans](https://medium.com/crypt-bytes-tech/crypto-thoughts-are-many-ico-whitepapers-business-plans-bd3581614663)
 
 
 
