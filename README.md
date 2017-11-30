@@ -2,7 +2,7 @@
 
 [Для русско - говорящих](https://github.com/alexeykrol/ICO_for_people/blob/master/README.md#russian-language)
 
-[For English speaking[(https://github.com/alexeykrol/ICO_for_people/blob/master/README.md#for-english-speakin)
+[For English speaking](https://github.com/alexeykrol/ICO_for_people/blob/master/README.md#for-english-speakin)
 
 
 Я, наконец, получил подписанный контакт с издательством [Эксмо](https://eksmo.ru/), ```согласно``` которому я буду писать книгу на тему «Как делать ICO если у вас нет 1 млн. долларов!». Основой для книги послужиk конспект моего семинара, который я проводил в конце августа 2017 в Сан-Франциско, но за это время многое изменилось и появилось много кейсов. Однако самым главным в этой книге будет то, что я построю ее на основе интервью самых опытных людей, практиков, которые реально что-то делали и делали в этой сфере. 
