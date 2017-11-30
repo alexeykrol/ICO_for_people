@@ -2,10 +2,10 @@
 
 [Для русско - говорящих](https://github.com/alexeykrol/ICO_for_people/blob/master/README.md#russian-language)
 
-For English speaking
+[For English speaking[(https://github.com/alexeykrol/ICO_for_people/blob/master/README.md#for-english-speakin)
 
 
-Я, наконец, получил подписанный контакт с издательством [Эксмо](https://eksmo.ru/), согласно которому я буду писать книгу на тему «Как делать ICO если у вас нет 1 млн. долларов!». Основой для книги послужиk конспект моего семинара, который я проводил в конце августа 2017 в Сан-Франциско, но за это время многое изменилось и появилось много кейсов. Однако самым главным в этой книге будет то, что я построю ее на основе интервью самых опытных людей, практиков, которые реально что-то делали и делали в этой сфере. 
+Я, наконец, получил подписанный контакт с издательством [Эксмо](https://eksmo.ru/), ```согласно``` которому я буду писать книгу на тему «Как делать ICO если у вас нет 1 млн. долларов!». Основой для книги послужиk конспект моего семинара, который я проводил в конце августа 2017 в Сан-Франциско, но за это время многое изменилось и появилось много кейсов. Однако самым главным в этой книге будет то, что я построю ее на основе интервью самых опытных людей, практиков, которые реально что-то делали и делали в этой сфере. 
 
 #### Кому эта книга может быть полезна?
 
@@ -32,14 +32,6 @@ For English speaking
 * [Статьи на русском по БЧ тематике:](https://medium.com/test-pubs)
 * [Блог на Медиум:](https://medium.com/krol-institute)
 * [Some English blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
-
-
-#### There are connected project there:
-
-
-[VCCommunity](https://github.com/alexeykrol/VCCommunity) - This is about the blockchain based Value Creating Community concept.
-
-[CFSP](https://github.com/alexeykrol/CFSP) - Crypto Fund Syndicate Protocol a set of smart contracts of the next generation, the basis of which will be artificial intelligence. CFSP will be executed on any CFCF-supported blockbuster and allows for the formation of "fast" syndicates, and at peak moments, a financial lever comparable to global GDP - trillions of dollars. 
 
 
 ## Russian Language
@@ -234,3 +226,9 @@ So, feel free to add any case, give a critic, issues or pull request if you have
 * [Some blockchain/ICO papers:](https://medium.com/project-based-learning-framework)
 
 
+#### There are connected project there:
+
+
+[VCCommunity](https://github.com/alexeykrol/VCCommunity) - This is about the blockchain based Value Creating Community concept.
+
+[CFSP](https://github.com/alexeykrol/CFSP) - Crypto Fund Syndicate Protocol a set of smart contracts of the next generation, the basis of which will be artificial intelligence. CFSP will be executed on any CFCF-supported blockbuster and allows for the formation of "fast" syndicates, and at peak moments, a financial lever comparable to global GDP - trillions of dollars. 
