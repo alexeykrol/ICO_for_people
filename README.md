@@ -1,6 +1,6 @@
 
 
-[Для русско - говорящих](https://github.com/alexeykrol/ICO_for_people/blob/master/README.md#Russian Language)
+[Для русско - говорящих](https://github.com/alexeykrol/ICO_for_people/blob/master/README.md#russian-language)
 
 For English speaking
 
