@@ -4,7 +4,9 @@
 2. [Структура Whitepaper](https://github.com/alexeykrol/ICO_for_people/blob/master/rus/howWhitepaper.md#%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-whitepaper)
 3. [Как писать Whitepaper? Последовательность и процесс.](https://github.com/alexeykrol/ICO_for_people/blob/master/rus/howWhitepaper.md#%D0%9A%D0%B0%D0%BA-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-whitepaper-%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81)
 4. [Базовые принципы написания](https://github.com/alexeykrol/ICO_for_people/blob/master/rus/howWhitepaper.md#%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8-%D0%BF%D1%80%D0%B8-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B8-wp)
-5. 
+5. [Как писать Whitepaper? Последовательность и процесс.](https://github.com/alexeykrol/ICO_for_people/blob/master/rus/howWhitepaper.md#%D0%9A%D0%B0%D0%BA-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-whitepaper-%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81)
+6. [Структура классической White Paper](https://github.com/alexeykrol/ICO_for_people/blob/master/rus/howWhitepaper.md#%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-white-paper)
+7. [Полезные ссылки для классических WP](https://github.com/alexeykrol/ICO_for_people/blob/master/rus/howWhitepaper.md#%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-wp)
 
 
 ### Что такое Whitepaper, зачем она нужна и как работает?
